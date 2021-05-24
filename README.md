@@ -1,0 +1,4 @@
+# .config
+
+The .config directory
+
